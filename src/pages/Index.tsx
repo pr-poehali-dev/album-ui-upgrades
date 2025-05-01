@@ -6,6 +6,8 @@ import AlbumCard from "@/components/AlbumCard";
 import EmptyState from "@/components/ui/empty-state";
 import { Plus, Trash2, Camera } from "lucide-react";
 
+import { Plus, Trash2, Camera } from "lucide-react";
+
 import useLocalStorage from "@/hooks/useLocalStorage";
 
 const Index = () => {
