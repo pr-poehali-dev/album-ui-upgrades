@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button";
 import { Album } from "@/lib/types";
 import AlbumCard from "@/components/AlbumCard";
 import EmptyState from "@/components/ui/empty-state";
-import { Plus, Trash2 } from "lucide-react";
-import { v4 as uuidv4 } from 'uuid';
+import { Plus, Trash2, Camera } from "lucide-react";
+
 import useLocalStorage from "@/hooks/useLocalStorage";
 
 const Index = () => {
